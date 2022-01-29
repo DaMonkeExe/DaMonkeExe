@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DaMonkeExe
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning C#, HTML, CSS and JS
-- 📫 How to reach me email me at themonkeexe@hotmail.com or TheMonkeExe#3759 at discord
+- 📫 How to reach me email me at themonkeexe@hotmail.com or Darwin The Drip Monkey#3759 at discord
