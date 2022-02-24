@@ -3,4 +3,4 @@
 - 👋 Hi, I’m @DaMonkeExe
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning C#, HTML, CSS and JS
-- 📫 How to reach me email me at themonkeexe@hotmail.com or Chef Vortigaunt#3759 at discord
+- 📫 How to reach me email me at themonkeexe@hotmail.com or Gordon Freeman#3759 at discord
