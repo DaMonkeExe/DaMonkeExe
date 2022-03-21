@@ -1,5 +1,3 @@
-# 📕 About DaMonkeExe
-
 # ✉️ How To Contact Me
 
   You Could Cotact Me By :
