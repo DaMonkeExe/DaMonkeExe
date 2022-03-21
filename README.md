@@ -4,8 +4,12 @@
 
 # My Github Stats
 
-[![DaMonkeExe's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaMonkeExe)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaMonkeExe)
+<p align="center">
+<a href="https://github.com/bufgix">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaMonkeExe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaMonkeExe&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
+</a>
+</p>
 
 # Other
 
