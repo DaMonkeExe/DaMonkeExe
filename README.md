@@ -1,7 +1,7 @@
 # 📘 Currently Learning
 
 
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png">
 </a>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_32x32.png">
 </a>
