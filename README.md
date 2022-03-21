@@ -1,5 +1,13 @@
 # 📘 Currently Learning
 
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png">
+</a>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png">
+</a>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png">
+</a>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_32x32.png">
+</a>
 
 
 # 📈 My Github Stats
