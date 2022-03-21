@@ -2,7 +2,7 @@
 
 
 
-# My Github Stats
+# 📈 My Github Stats
 
 <p align="center">
 <a href="https://github.com/bufgix">
