@@ -12,7 +12,6 @@
 <a href="https://golang.org">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_32x32.png">
 </a>
-<br><br><br><br>
 
 # 📈 My Github Stats
 
