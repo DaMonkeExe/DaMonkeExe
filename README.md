@@ -3,8 +3,9 @@
 # ✉️ How To Contact Me
 
   You Could Cotact Me By :
-      -  Emailing Me At themonkeexe@hotmail.com
-      -  Contacting Me At My Discord Bonzi Buddy#3759
+
+      Emailing Me At themonkeexe@hotmail.com
+      Contacting Me At My Discord Bonzi Buddy#3759
 
 # 📘 Currently Learning
 
