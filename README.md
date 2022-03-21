@@ -3,12 +3,15 @@
 <a href="https://www.w3.org/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png">
 </a>
+<br>
 <a href="https://www.javascript.com/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png">
 </a>
+<br>
 <a href="https://www.w3.org/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
 </a>
+<br>
 
 # 📈 My Github Stats
 
