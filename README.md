@@ -11,6 +11,7 @@
 <a href="https://www.w3.org/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
 </a>
+<br><br><br>
 
 # 📈 My Github Stats
 
@@ -20,6 +21,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaMonkeExe&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
 </a>
 </p>
+<br><br><br>
 
 # Other
 
