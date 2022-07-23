@@ -3,7 +3,7 @@
   You Could Cotact Me By :
 
       Emailing Me At themonkeexe@hotmail.com
-      Contacting Me At My Discord Bonzi Buddy#3759
+      Contacting Me At My Discord Bonzi bonzi buddy ms paint edition#3759
 
 # 📘 Currently Learning
 
